@@ -1,5 +1,6 @@
 <img alt="expo sdk" src="https://github.com/taxidriver2192/my-template-generator/blob/master/WhyThisProject.jpg">
 
+# Why does project?
 The application is a Vue template generator for creating customizable grids in different paper formats such as a2, a3, and a4. The generator allows me to create grids with 8 rows and 5 columns, with the option to adjust the width and height of each grid.
 
 In the top right corner of each grid, there is a number indicating its position, while on the left side, there is a short text description. 
